@@ -4,7 +4,7 @@ Collection of information/links on code challenges that I have taken part in but
 
 ## Euler project
 
-[Euler project](https://projecteuler.net/archives) is a large collection of small scale coding challenges that anyone can do. Because Euler project explicitly forbids sharing code solutions to their challenges, unfortunately I can only provide proof of my coding on request basis. So far, I have done around first 40 challenges using c++ inm y private repository but this can change in the future if I find the motivation to do so. 
+[Euler project](https://projecteuler.net/archives) is a large collection of small scale coding challenges that anyone can do. Because Euler project explicitly forbids sharing code solutions to their challenges, unfortunately I can only provide proof of my coding on request basis. So far, I have done around first 40 challenges using c++ in my private repository but this can change in the future if I find the motivation to do so. 
 
 ## CodeCrafters
 
